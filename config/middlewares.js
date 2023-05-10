@@ -14,14 +14,14 @@
                 'data:',
                 'blob:',
                 'dl.airtable.com',
-                'strapiuploaddemo996.s3.eu-central-1.amazonaws.com', // change here
+                'food-blog-v001-image-bucket.s3.eu-central-1.amazonaws.com', // change here
               ],
               'media-src': [
                 "'self'",
                 'data:',
                 'blob:',
                 'dl.airtable.com',
-                'strapiuploaddemo996.s3.eu-central-1.amazonaws.com', // change here
+                'food-blog-v001-image-bucket.s3.eu-central-1.amazonaws.com', // change here
               ],
               upgradeInsecureRequests: null,
             },

@@ -10,7 +10,8 @@ module.exports = ({ env }) => ({
           region: 'eu-central-1',
           params: {
             ACL: env('AWS_ACL', 'public-read'), // 'private' if you want to make the uploaded files private
-            Bucket: 'strapiuploaddemo996',
+            // Bucket: 'strapiuploaddemo996',
+            Bucket: 'food-blog-v001-image-bucket',
           },
         },
       },
