@@ -4,14 +4,15 @@
   "info": {
     "singularName": "content3",
     "pluralName": "content3s",
-    "displayName": "content3"
+    "displayName": "content3",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "image1": {
+    "cover1": {
       "allowedTypes": [
         "images",
         "files",
@@ -21,7 +22,7 @@
       "type": "media",
       "multiple": false
     },
-    "image2": {
+    "cover2": {
       "allowedTypes": [
         "images",
         "files",
@@ -29,9 +30,9 @@
         "audios"
       ],
       "type": "media",
-      "multiple": true
+      "multiple": false
     },
-    "image3": {
+    "cover3": {
       "allowedTypes": [
         "images",
         "files",
@@ -39,7 +40,7 @@
         "audios"
       ],
       "type": "media",
-      "multiple": true
+      "multiple": false
     }
   }
 }
